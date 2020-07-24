@@ -1,0 +1,12 @@
+.media-card img {
+  height: 100%;
+}
+input[type="file"] {
+  display: none;
+}
+label[for="image"] {
+  border-radius: 0;
+}
+#image_thumbnail {
+  width: 9.3em;
+}
